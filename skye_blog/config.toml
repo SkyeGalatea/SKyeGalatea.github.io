@@ -1,0 +1,10 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Skye's Blog"
+theme = "PaperMod"
+
+[params]
+  ShowShareButtons = true
+  ShowReadingTime = true
+  defaultTheme = "auto"
